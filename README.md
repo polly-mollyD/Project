@@ -15,11 +15,11 @@ The consumer takes this item from the buffer, prints "Consumer #n (consumer numb
 ```
 Producer 2 inserts 41
 
-$ Producer 1 inserts 41
+Producer 1 inserts 41
 
-$ Producer 3 inserts 41
+Producer 3 inserts 41
 
-$ Consumer 1 takes 41
+Consumer 1 takes 41
 
 Consumer 2 takes 41
 
