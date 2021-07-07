@@ -12,6 +12,7 @@ The consumer takes this item from the buffer, prints "Consumer #n (consumer numb
 
 ## Getting Started
 ## Expected result
+```
 Producer 2 inserts 41
 
 $ Producer 1 inserts 41
@@ -57,3 +58,4 @@ Consumer 1 takes 91
 Producer 3 inserts 64
 
 Consumer 3 takes 64
+```
