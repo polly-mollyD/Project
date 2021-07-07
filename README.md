@@ -12,28 +12,44 @@ The consumer takes this item from the buffer, prints "Consumer #n (consumer numb
 
 ## Expected result
 ```
-Producer 1 inserts 73
+Producer 3 inserts 69
 
-Producer 3 inserts 32
+Producer 2 inserts 38
 
-Producer 2 inserts 27
+Consumer 1 takes 38
 
-Consumer 2 takes 27
+Consumer 2 takes 69
 
-Consumer 3 takes 32
+Producer 1 inserts 70
 
-Consumer 1 takes 73
+Consumer 3 takes 70
 
-Producer 2 inserts 90
+Producer 1 inserts 61
 
-Producer 3 inserts 83
+Producer 3 inserts 49
 
-Consumer 2 takes 83
+Consumer 3 takes 49
 
-Consumer 3 takes 90
+Producer 2 inserts 6
 
-Producer 1 inserts 5
+Consumer 2 takes 6
 
-Consumer 1 takes 5
+Consumer 1 takes 61
+
+Producer 1 inserts 50
+
+Consumer 1 takes 50
+
+Producer 2 inserts 71
+
+Producer 3 inserts 23
+
+Consumer 2 takes 23
+
+Consumer 3 takes 71
+
+Producer 1 inserts 34
+
+Producer 2 inserts 18
 
 ```
